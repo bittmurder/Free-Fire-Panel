@@ -1,5 +1,5 @@
 # Free Fire Panel
-
+Do OR DIE
 Welcome to the Free Fire Panel repository! 🎮🔥 Here, you will find a collection of tools and resources related to Free Fire gaming, designed to enhance your gaming experience and provide additional functionalities.
 
 ## Table of Contents
